@@ -1,9 +1,9 @@
 package com.michaelbuzzard.leetcode;
 
-import com.michaelbuzzard.leetcode.PalindromeNumber;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+
 public class PalindromeNumberTest {
 
     PalindromeNumber pdNum = new PalindromeNumber();

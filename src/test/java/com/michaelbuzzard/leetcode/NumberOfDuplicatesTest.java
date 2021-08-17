@@ -1,9 +1,8 @@
 package com.michaelbuzzard.leetcode;
 
-import com.michaelbuzzard.leetcode.NumberOfDuplicates;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class NumberOfDuplicatesTest {
 

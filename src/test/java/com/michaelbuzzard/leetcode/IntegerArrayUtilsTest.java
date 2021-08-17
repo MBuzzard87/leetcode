@@ -1,6 +1,5 @@
 package com.michaelbuzzard.leetcode;
 
-import com.michaelbuzzard.leetcode.IntegerArrayUtils;
 import org.junit.Assert;
 import org.junit.Test;
 
