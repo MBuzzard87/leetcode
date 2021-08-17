@@ -1,4 +1,6 @@
+package com.michaelbuzzard.leetcode;
 
+import com.michaelbuzzard.leetcode.PalindromeNumber;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

@@ -1,3 +1,5 @@
+package com.michaelbuzzard.leetcode;
+
 public class IntegerArrayUtils {
 
     /**
@@ -69,7 +71,7 @@ public class IntegerArrayUtils {
      */
     public static Integer[] decrementOdd(Integer[] input) {
         for (int i = 0; i < input.length; i++) {
-            if ((input[i] - 1) % 2 == 0) {
+            if (input[i] % 2 != 0) {
                 input[i]--;
             }
         }
