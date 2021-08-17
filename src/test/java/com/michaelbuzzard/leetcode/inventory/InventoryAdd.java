@@ -1,4 +1,4 @@
-package com.michaelbuzzard.leetcode.InventoryTest;
+package com.michaelbuzzard.leetcode.inventory;
 
 import com.michaelbuzzard.leetcode.Inventory;
 import org.junit.Assert;
