@@ -4,9 +4,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class SmallestPositiveNumberInAnArrayTest {
+public class SmallestNumberNotInAnArrayTest {
 
-    SmallestPositiveNumberInAnArray smallArr = new SmallestPositiveNumberInAnArray();
+    SmallestNumberNotInAnArray smallArr = new SmallestNumberNotInAnArray();
 
     @Test
     public void testSmallNum1() {

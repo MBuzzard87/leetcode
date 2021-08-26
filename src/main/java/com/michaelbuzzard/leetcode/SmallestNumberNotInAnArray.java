@@ -3,7 +3,7 @@ package com.michaelbuzzard.leetcode;
 import java.util.HashSet;
 import java.util.Set;
 
-public class SmallestPositiveNumberInAnArray {
+public class SmallestNumberNotInAnArray {
 
     //Find the smallest number between 1 and 100,000 that is not present within an array
     //return only numbers larger than 0
