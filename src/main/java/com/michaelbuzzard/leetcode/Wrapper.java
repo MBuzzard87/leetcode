@@ -4,8 +4,8 @@ import java.io.*;
 
 public class Wrapper {
 
-    //Print a statement only allowing a max of 70 columns/characters per row
-    //If a word will be cut off then print that word on the next line instead of splitting the string
+    //Print a statement only allowing a max of 70 columns/characters per row similar to a spreadsheet
+    //If a word will be cut off then print that word on the next line instead
 
 
 
