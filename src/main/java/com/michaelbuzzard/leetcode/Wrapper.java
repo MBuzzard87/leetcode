@@ -19,7 +19,7 @@ public class Wrapper {
             sb.append(str);
         }
 
-        wrap(sb.toString(), 70);
+        wrap(sb.toString(), 100);
     }
 
 
